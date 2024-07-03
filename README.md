@@ -69,7 +69,3 @@ The client-side code includes HTML templates (`templates` folder) for different 
 - Improve the UI and styling for a better user experience.
 
 ---
-
-## Author
-
-Jeel patel
